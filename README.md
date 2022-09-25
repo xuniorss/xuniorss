@@ -1,4 +1,4 @@
-## Olá! Sejam bem-vindo(a)s ao meu repositório
+## Olá! Sejam bem-vindo(a)s ao meu perfil
 
 - 🔭 Atualmente sou Fullstack Developer 
 - 🌱 Estudando testes com JEST e princípios S.O.L.I.D
