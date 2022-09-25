@@ -1,4 +1,4 @@
-## Olá! Sou o Gilberto Fortunato, mas me chamam de Júnior
+## Olá! Sejam bem-vindo(a)s ao meu repositório
 
 - 🔭 Atualmente sou Fullstack Developer 
 - 🌱 Estudando testes com JEST e princípios S.O.L.I.D
