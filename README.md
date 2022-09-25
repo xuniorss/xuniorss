@@ -1,4 +1,4 @@
-## Olá! Sou o Júnior
+## Olá! Sou o Gilberto Fortunato, mas me chamam de Júnior
 
 - 🔭 Atualmente sou Fullstack Developer 
 - 🌱 Estudando testes com JEST e princípios S.O.L.I.D
@@ -9,8 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuniorss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Xuniorss-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Xuniorss-React" height="30" width="40" src="/assets/nextjs.png">
+  <img align="center" alt="Xuniorss-ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Xuniorss-ReactNative" height="30" width="40" src="/assets/react-native.png">
+    <img align="center" alt="Xuniorss-NextJs" height="30" width="40" src="/assets/nextjs.png">
   <img align="center" alt="Xuniorss-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Xuniorss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Xuniorss-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
