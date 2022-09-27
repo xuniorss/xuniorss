@@ -1,7 +1,8 @@
 ## Olá! Sejam bem-vindo(a)s ao meu perfil
 
 - 🔭 Atualmente sou Fullstack Developer 
-- 🌱 Estudando testes com JEST e princípios S.O.L.I.D
+- 🌱 Aperfeiçoando conhecimentos nos testes com JEST e princípios S.O.L.I.D
+- 🌌 Melhorando no uso do Typescript
 
 <div align="center">
   <a href="https://github.com/xuniorss">
