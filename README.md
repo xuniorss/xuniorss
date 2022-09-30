@@ -3,6 +3,7 @@
 - 🔭 Atualmente sou Fullstack Developer 
 - 🌱 Aperfeiçoando conhecimentos nos testes com JEST e princípios S.O.L.I.D
 - 🌌 Melhorando no uso do Typescript
+- A E S T H E T I C
 
 <div align="center">
   <a href="https://github.com/xuniorss">
