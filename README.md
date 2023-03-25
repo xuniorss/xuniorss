@@ -1,8 +1,8 @@
 ## Olá! Sejam bem-vindo(a)s ao meu perfil
 
-- 🔭 Atualmente sou Fullstack Developer 
-- 🌱 Aperfeiçoando conhecimentos nos testes com JEST e princípios S.O.L.I.D
-- 🌌 Melhorando no uso do Typescript
+- 🔭 Cursando Engenharia de Software
+- 🌱 Aperfeiçoando conhecimentos nos testes com Cypress
+- 🌌 Fullstack developer - ReactJs | NextJs | React Native | AdonisJs
 - A E S T H E T I C
 
 <div align="center">
