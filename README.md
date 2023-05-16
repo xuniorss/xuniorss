@@ -1,7 +1,7 @@
 ## Olá! Sejam bem-vindo(a)s ao meu perfil
 
-- 🔭 Cursando Engenharia de Software
-- 🌱 Aperfeiçoando conhecimentos nos testes com Cypress
+- 🔭 Cursando Pós-Graduação Engenharia de Software
+- 🌱 Aperfeiçoando conhecimentos nos testes com Cypress e tailwindcss
 - 🌌 Fullstack developer - ReactJs | NextJs | React Native | AdonisJs
 - A E S T H E T I C
 
