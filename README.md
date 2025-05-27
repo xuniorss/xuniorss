@@ -1,6 +1,6 @@
 ## Olá! Sejam bem-vindo(a)s ao meu perfil
 
-- 🔭 Cursando Pós-Graduação Engenharia de Software
+- 🔭 Pós-Graduado em Engenharia de Software
 - 🌱 Aperfeiçoando conhecimentos nos testes com Cypress
 - 🌌 Front-end developer - React.js | Next.js | Redux.js | TailwindCSS
 - A E S T H E T I C
